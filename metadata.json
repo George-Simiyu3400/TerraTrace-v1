@@ -1,0 +1,6 @@
+{
+  "name": "TerraTrace - Kenya Land Document Screening & Verification",
+  "description": "AI-assisted screening, OCR extraction, inconsistency detection, SHA-256 document fingerprinting, and tamper-evident audit history for Kenyan land documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
